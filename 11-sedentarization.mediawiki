@@ -1,0 +1,120 @@
+== Sedentarization ==
+
+''(Feb 2012 – Jan 2014)''
+
+With the Internet becoming mainstream 4chan's role in the new e-geopolitics was well defined. People from all the world would come to express their problems, desires or just to talk about normal things or things they wouldn't normally talk about protected by the veil of anonymity. While not something negative in and on itself this would bring forth one of the most radical changes of /b/, and in a way 4chan: A relative disassociation from the Internet Culture that once gave it birth.
+
+Culturally the average user of 4chan has radically changed his attitude. It has become much more sensitive and incapable of ignoring things it doesn't like or enjoy, sometimes to the point of being humorless. They also became much more interested discussion, debate and creating content for 4chan even though people with actual Photoshop, coding or drawing skills are few and far between. While not worse than the previous ages, 4chan lost some its passion for black comedy and transgression, and users take most things others say personally. Every thread has some form of antagonism by someone who didn't like it. However the boards didn't stop from creating their characteristic content, perhaps even more than all the other yeaars ever did.
+
+=== The Reformation ===
+
+''(Feb 2012 – Sept 2012)''
+
+The advent of SOPA and PIPA # 15 led most important sites of the Internet to react in some way to it. Anonymous was not excluded, and it culminated with massive protests, a black-out were even sites like Wikipedia participated in for a day, and DDOS attacks to most US government sites. The law was eventually rejected but another, weaker version was proposed and a similar one was also projected in the European Union. To this day most governments and organizations continue to attempt to censor and control the Internet, but the hacktivist anonymous still puts up some fight.
+
+In February, Valentine's Day, moot announces plans to add up to 15 boards and manage the rising brony problem that was created from the new ''My Little Pony'' series. Three days later he adds /mlp/ - My little Pony. This would be the first move a series of actions that would, after six years of spam, chaos and reposts, ameliorate the situation of /b/ and 4chan as a whole. moot would later reinstitute forced anon on /b/, open /q/ - 4chan Discussion, make several enhancements to the source code, implement inline plug-ins, open a sticky to discourage porn, rate me, and whatever spam threads were left, reopened the janitor applications and reactivated the mod machine. After many years without gaining any money other than ads revenue, because moot hates the idea of receiving without giving (If you know what I mean), he add adds the 4chaThe n pass under suggestion from /q/ allowing people to bypass reCAPTCHA by paying 20 dollThe ars. Though not without its problems, many semi-popular boards suffer from spam due to various events that destabilized them (Andrew W.K. and Deadmau5 posting on /mu/, the Olympics on /sp/, etc) Yet, for the first time in years, the quality of /b/ has returned to pre-newfag summer levels, with new OC slowly making its way through the sea of threads. CP threads are no more, spam is almost inexistent, and the oldest users seem to be returning. However this small period of peace soon proved to be little more than an ephemeral activity.
+
+The rise of Anita Saarkesian, feminist vlogger, and her successful kickstarter brought the issue of feminism to the completely unrelated board of /v/. /v/ being the board with the most dynamic age range (from 13 years olds to people in their late 20s) took it as something personal. From the on there will always be a thread on /v/ complaining about feminism, sometimes not even games related.
+
+=== The State of /b/ ===
+
+''(Approx. Oct 2012)''
+
+With the issue of bronies quelled, and new coder desuwa working constantly on the inline extension, among other ideas such as an inline catalog, the last part of 2012 proved to be one of improvements. The end of the year saw a high rise on the numbers of &quot;casual&quot; users on the board, to the point that posting old memes and catchphrases would shock /b/ as if it was the first time they were ever posted. Since one of the tenets of /b/ was that their aggressiveness would often create content or at least humorous threads, the rising amount of normal users reduced /b/ to become more or less an anonymous Facebook divided between porn threads and &quot;X decides what I do&quot;. Before, all users have to do was to be patient and eventually good threads would arise. Nowadays that idea seems to be a distant possibility.
+
+By the end of 2012 /b/ accepted it's more casual culture, the influx of what could be deemed as &quot;Facebook users&quot;, bored teenagers with a knack for dark comedy and an age median of 16 to 24, put the board in a routine of meaningless activities. While quality wise its nothing new, as even during the days of the dark age with /b/ at its worst there was at least some degree of activity in any form – Be it raids, OC, discussion or even cancer – Nowadays /b/ has shifted towards a culture of passive encouragement: It will take any opportunities that present themselves, but it will not go out to generate any new content (or problems) like it used to do, merely limiting itself to laugh at stuff and make porn threads.
+
+=== /pol/'s War Against the Internet ===
+
+''(Approx. Jan 2013)''
+
+The advent of 2013 also saw a sharp rise with issues regarding the board /pol/ - Politically Incorrect. /pol/ was created to re-contain a small band of white supremacists taking residence on boards like /int/ and /k/. They were originally from /new/ - News, a board that housed a majority of white supremacists allegedly because 4chan once raided Stormfront, making a few of its users aware of the site's anonymous appeal. Given the cultural changes of the Internet and the rise of Reddit's &quot;fempire&quot;, nobody expected what would happen next.
+
+{{Quote box
+ |title = SJW (Social Justice Warriors)
+ |quote = Usually defined as "liberal extremists who shame offenders through psychological or legal means, launch raids and protests against supposed offenses, and impose restrictions on speech to protect a supposed 'right not to be offended'." It is important to understand that '''SJWs do not represent the beliefs or actions of ordinary liberals or feminists'''. SJWs differ from ordinary social activists through their intense vitriol, self-harm, and abuse of the legal system.
+* Something Awful, whose population went through a period of extreme Social Justice between 2011 and 2012.
+  * According to some, SA’s sad state should also be attributed to a Radical Feminist Lowtax put as second in command. This group has now been quelled, after the last SJW subforum, laisses faire, was deleted altogether with all the FYAD-lites.
+* Reddit’s /r/ShitRedditSays, who shared a userbase with SA’s Laisses Faire and Weird Twitter.
+* Tumblr’s "Feminists" and Social Justice Activists.
+* Various independent people, ranging from white supremacist haters to offended transsexuals. 
+ |width = 30%
+ |align = right
+ |salign = right
+ |class = letterhead
+ |border = none
+}}
+
+{{Quote box
+ |title = JIDF
+ |quote = The Jewish Internet Defense Force. It was already notorious before this happened for being the Jewish equivalent of Stormfront. Unsurprisingly, it became a meme on /pol/ to accuse each other of being "JIDF shills".
+ |width = 30%
+ |align = right
+ |salign = right
+ |class = letterhead
+ |border = none
+}}
+
+The general perception of /pol/ was as a quarantine board disguised as a politics board. In due aspect most users of the site regarded /pol/ as a shithole. This board came to be notorious in various Internet communities prompting various sites with a tendency towards Social Justice to go on a crusade against the board's perceived white supremacism. Since /pol/ is constantly being showered with spam the residents, most of them trolls, didn't particularly care, after all to them it was just more entertainment. All this managed was to increase the popularity of the JIDF meme. However the repercussions of having both groups chimping out on each other like Hatfields and McCoys would be felt site-wide, with various boards having a team of /pol/lacks appearing whenever race or politics were mentioned, and many threads being constantly derailed by complaining feminists and liberals. /co/ would be the place the issue was felt the most, with both groups clashing and completely derailing threads.
+
+{{Quote box
+ |title = /pol/: Racist, or just tongue-in-cheek?
+ |quote = Given its status as a quarantine board, most users believe /pol/ to be completely inhabited by white supremacists. In fact, /pol/ actually tends to discuss politics, but with a tongue-in-cheek or dark humour manner. In many ways this harks back to the /b/ of old, with trolls trolling trolls, catchphrases and memes flying around constantly and people acting silly for the sake of it. The current hypothesis is that /pol/’s most malodorous residents are anti-social idiots that have been rejected by most of the extremely ban-happy white supremacist communities. 
+ |width = 30%
+ |align = right
+ |salign = right
+ |class = letterhead
+ |border = none
+}}
+
+moot and the moderation team, and most of 4chan's userbase originally though the "JIDF/SRS" raids were nothing but trolls and a minority of actual stormfags being idiots reacting to everyone hating them. Eventually, [http://archive.foolz.us/q/thread/348577/  after a series of threads on /q/], people began to suspect that there were actual people attempting to get /pol/ deleted. Investigation followed, more info came out, with users from /pol/ compiling and links and evidence towards the possibility of organized raids against the thread. Finally, a mod took note of all the information and vowed to direct it to moot. 
+
+{{Quote box
+ |title = Self Oppressing Activists?
+ |quote = Ironically, constant complaining about /pol/ on /q/ by these activists (With their threads being derailed by stormfags all the time) eventually led them to compile their own multiple-posts-long “evidence” vouching for /pol/’s deletion detailing all the links and information regarding the possibility of a Stormfront awareness group, who dedicated themselves to spread their agenda via victimization of the white people, visiting 4chan to spam their ideals there. This wouldn’t be really possible, arising from the fact that Stormfront’s pseudo-ideology is one of the most closed-minded of all and still believes 4chan is out to get them like years ago, but there’s still the fact that whenever you mention race on the site a small band of people will start to drop pseudo studies about why black people is inferior.
+ |width = 30%
+ |align = right
+ |salign = right
+ |class = letterhead
+ |border = none
+}}
+
+Ultimately /q/ would suffer a constant onslaught of Social Justice Warriors (or a very dedicated troll) trying to get /pol/ deleted to the point where even the mods stepped in to tell them to shut up. The SJW didn't stop and some even began to threaten to doxx team 4chan and start legal action. This eventually got moot fed up enough to delete /q/ on mid-2013. To this day moot still calls /q/ a mistake that went from 4chan discussion to /deletepol/.
+
+The constant onslaught by not one but two different groups made serious discussion on /pol/ nearby impossible, however all that would be rendered moot (no pun intended) as it all became a meme in and on itself and the discussions eventually drowned in a sea of IT'S HAPPENING and troll threads. It can no longer be distinguished whenever a /pol/itician is joking or not. /pol/ also saw a rise in conspiracy and tin-foil-hat-type threads spurn from an exodus of neo-/x/philes, a very crazy breed of anon, to the board. Many modern /x/ phrases such as &quot;disinfo&quot; have been exported to /pol/ and the quality of board plummeted thanks to them.
+
+Ultimately, the consequences of all the strife ended up with /pol/ becoming a buzzword for any dissenting, right-leaning opinion and Tumblr/SRS becoming the equivalent buzzword for any left-leaning post. The whole debacle ended up becoming just another way for posters to maintain and rationalize their idealized idea of their favourite board. To this day it's still a mystery whether the spammers were feminists or some of the most persistent trolls 4chan has ever seen.
+
+=== /s4s/ ===
+
+''(Apr 1st 2013)''
+
+For April's fool 2013 moot embedded an Adult Cat Finder joke on /b/ and grand surprise: The creation of a board called &quot;Shit 4chan Says&quot;. Obviously a take on all the SRS and Reddit hate the rule-less board was immediately filled with /b/tards of old and people looking for old jokes and traditions from all ages. Threads from Thrust Vectoring to copypasta spam and she EPIN, /b/ where posted and the whole place looked like a time vortex suddenly appeared began to spam dead memes and dubs threads. All was good and the general opinion of the board was positive. However the board depopulated quickly as nobody expected it last long and 4chan's interested have long went away from old memes. Since it was an April's fool's board, nobody knew how much the board would last. A general mood of &quot;post-irony&quot; where all 4chan customs where inverted and shitposting was renamed funposting set in. Knowing the lifespan of the board was potentially short its new userbase quickly decided to create as much OC as possible.
+
+/s4s/'s immediate exports were the mod-created Into the Trash You Go, discovering the kek muffin and using it to replace lel and top lel, the return of That Fucking Cat and breaking the 10000 replies mark. Many of 2006 and 2008's users stayed and tried to bring back raids, and while this worked for some time, people were not interested and the mods quickly brought the threads down. However /s4s/, now [s4s], decided to bring back interboard raiding, this time in the form of GET stealing. Many important gets were hijacked by /s4s/, and unlike normal raids these took much longer to be deleted. /s4s/ also gave a warm welcome to the new boards, spamming the entire catalog of /gd/ with a gigantic Bateman combo, which was probably the most epic raid of the year.
+
+{{Quote box
+ |title = The Doge
+ |quote = Originally a small, dead meme called Shibe from Tumblr, which before discovery got 24 reblogs at best. The meme also appeared on Reddit before surfacing from 4chan, but it was also a very small subreddits. While [s4s] did not create the Doge, they certainly popularized it.
+ |width = 30%
+ |align = right
+ |salign = right
+ |class = letterhead
+ |border = none
+}}
+
+By far, [s4s]'s greatest contribution was the popularization of Doge. A reaction face of a Shiba dog with a concerned look and silly, broken dog speak in comic sans that quickly spread over all 4chan and the entire of the Internet. It got so popular it managed to get its own cryptocurrency by 2014.
+
+=== Improved Moderation ===
+
+(2013)
+
+By April moot commanded a moderation crackdown on long-forgotten boards such as /tv/ and /sp/. /tv/ had become a hub for stalkers, pedophiles and celebrity/waifu worshipers and /sp/ became a shitposting haven around 2011. /sp/ was over moderated, however, with many long-standing traditions being regarded as off-topic and deleted, such as power level thread and current events like natural disasters being regarded as games. The board instantly rebelled, and began to spam both /q/ and /sp/ with off-topic and propaganda under the banner of &quot;#freesp&quot;. /tv/ followed suit but they had no real reason to. The situation escalated to the point where users, calling themselves outlaws, got an ex-janitor into their ranks that began to leak information about the janitor board, /j/, and the staff. A full list of the staff logged in the janitor IRC, #janiteam, was gathered. Eventually moot settled the issue during his third Q/A on May stating he will consider allowing the more traditional threads.
+
+Mods would take a much more active approach towards the boards. Whenever a big event happened a sticky would be created on its respective board until the hype wore out, or to squelch an over exited general. Mod presence generally became more noticeable, with /s4s/ getting its own resident mod. moot also added a suggestion box which allowed users to explain their concerns, perceived issues, and ideas in depth without the usual white noise /q/ had. Rizon's official 4chan IRC would also undergo changes, all of the mods would be de-opped in favour of a single bot, Yotsubot, that could be remotely controlled by them.
+
+=== 10 Years ===
+
+''(October 2013)''
+
+By the end of August, with 4chan's tenth birthday only a month away, moot announced that he will host a final 4chan panel together with Shut, on AnimeWeekend. This was followed by a couple newsposts, the 500000000 GET on /b/, and second wave of updates and upgrades to the site. Meta threads would be allowed again since /q/ was removed, and in a day that will live in infamy, moot decided to make the sage invisible, since it has long since lost its original meaning. The panel went smoothly and moot did a meet and greet with many fans, even signing a /k/ommando's Mossin Nagant. On the very same day, the American government would shut down most of it non-essential services, /v/ discovers hints that Half-Life 3 may be on the making, the Silk Road is closed by the feds and many games are released or updated. October 1st, 2013 would be a quite iconic day on the short-term memory of 4chan. /b/'s presence is long gone from the face of the Internet and its successors being one of the most hated Internet forums on history and the other an isolationist circlejerk.

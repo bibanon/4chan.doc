@@ -11,7 +11,7 @@
  |align = right
  |salign = right
  |class = letterhead
- |border=none
+ |border = none
 }}
 
 During this era, the inexperienced 4chan community gets it's first taste of Internet warfare in a coalition attack against ''EbaumsWorld'' for its plagiarism and malicious tendencies. Although it was a fairly reactive community, the EbaumsWorld raid gave birth to a sort of organized raid culture, with raids soon becoming commonplace on /b/. 

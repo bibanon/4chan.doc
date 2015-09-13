@@ -1,4 +1,4 @@
-#### _Disclaimer:_
+## Disclaimer from ThrustVect
 
 You don't really need to read this. I'm making this .doc as a means of preserving important data about 4chan, its culture and its history in case the original sources go down (and they did). Think of this as a time vault for the long future (as long as my hard drive doesn't die and somebody downloads this). For some, reading this will feel like a chore.
 
