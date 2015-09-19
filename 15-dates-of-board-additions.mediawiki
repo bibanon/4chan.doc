@@ -1,427 +1,115 @@
-==== ''Dates of board additions:'' ====
+= Sources: =
 
-'''2003'''
+First of all, there are the primary sources that is 4chan's various pages and news, two of which are the most important:
 
-October 1
+http://www.4chan.org/news?all - Of course, the main source.
 
-/b/ - Anime/Random
+The #janiteam leaks – The second most important source. It provides background on what the staff thinks of all the evens that happened since early 2012. The insight will change anyone's mind on how the staff works. Hosted on several places.
 
-October 2
+Onto the secondary sources - Nowadays there are very few active 4chan history sources. Shii's site was taken down due to DMCA, Jkid had to turn off Yotsuba Society due to personal problems, Encyclopedia Dramatica's userbase is too small to properly record 4chan and Internet drama, the archive of the original Wikichan has been lost to history, among many other sites that have disappeared.
 
-/h/ - Hentai
+Here's a list of the active sources that are not directly related to 4chan:
 
-October 6
+https://github.com/bibanon/bibanon/wiki - The Bibliteca Anonoma, or Bibanon is an active wiki project about saving information on internet culture that might otherwise disappear with time, they made a neat summary for the history of 4chan, which I took and revamped. Maintained by shii and other users. It's probably the most up to date wiki about the site.
 
-/c/ - Anime/Cute
+[https://encyclopediadramatica.es/Main_Page https://encyclopediadramatica.es/] - Encyclopedia Dramatica - The shithole of the Internet's ever present buttock. While at first glance it seems to be entirely composed of bullshit, ED has loads of information on users and performed raids, including tidbits about the Internet in general, like the first Internet raid ever done and the biggest compilation of creepypasta on the Internet. If there's one thing they excel at, it's at archiving drama. They seem to roam the line between life and death nowadays. Be advised that you must be extremely in tune with ED's culture to be able to device the absurd humour and intentional lies from the truth. Since the GamerGate incident, ED seems to have been taken over by 8channers.
 
-/d/ - Hentai/Alternative
+[http://www.lurkmore.com/wiki/Main_Page http://www.lurkmore.com/] - The LURKMOAR wiki - The first chan culture wiki. It was an effort to compile and explain the crescent amounts of memes and culture 4chan was creating on 2005. Its population slowly shifted to ED, and eventually fell into obscurity and obsoletion. Nowadays it's mainly used as a wiki for its own boards dedicated to camwhores. Still gets updated with 4chan-related information from time to time. To see: GET list # 33 , tripfag list # 34 , camwhores list # 35 and some classic memes.
 
-/w/ - Wallpapers/Anime
+[http://tb.vyrd.net/ http://tb.vyrd.net] (Originally http://576chan.org/4chan/ | http://dir.vyrd.net/) – Vyrd.net - An awesome repository of links and info of 4chan. Barely active, it's owner makes a great effort to archive any and all 4chan information possible.
 
-/y/ - Yaoi
+http://tanasinn.info/ - Tanasinn – A mysterious wiki filled with Japanese textboard culture and self-referencing humour. It has an extremely useful timeline that's still updated from time to time: http://tanasinn.info/wiki/Complete_History_of_4chan
 
-/i/ - oekaki BBS board
+http://www.yotsubasociety.org/ - Yotsuba Society - An attempt to do the same I'm doing here. Run by Jkid, infamous tripfag/stalker from /cgl/.
 
-October 9
+''The First Channel, The Second Channel'' and ''The Third Channel'' – Essays about Ayashii Warudo, 2channel and 2chan respectively from Yotsuba Society, although nothing new, they provide excellent (albeit highly typo'd) pieces of information.
 
-/g/ - Guro
+They also have an exhaustive archive of many threads of 4chan # 36 , and a wiki bent on recovering the lost articles of the legendary wikichan # 37 . The site was took down recently due to jKid having to find work, but has recently resurfaced. Important things from this wiki are http://www.yotsubasociety.org/node/2, which talks about the forerunners of image board culture, and a summary of the history of the Russian chanverse.
 
-/s/ - Sexy Beautiful Women
+Special mentions to:
 
-November 8
+http://wikichan.org/ (Dead link. 2006-2010) – Wikichan – By far the most popular and exhaustive compilation of 4chan information there was. However, as dedicated its userbase was, it was constantly DDoS'd, dropped by ISPs and hacked. It was known not only for compiling info on memes but also for having an extensive list of 4chan user stories and creepypasta. On 2010 the admin decided to call it quits. Many attempts to restore the info on Wikichan where performed, but only partially successful.
 
-/a/ - Anime
+http://insurg.in | http://dnathe4th.porfusion.com/partyvan/07-31-08/index.php/Main_Page.html (Dead links: insurgen.info | partyvan.info 2006-2011) – The Insurgency Wikis – Wikis founded during the heyday of raid culture and /i/ - Invasions boards in order to record and organize the various raids and campaigns Anonymous was carrying. They were down constantly due to unstable administration and were eventually forked and archived
 
-/l/ - Lolikon
+And here a list of all the non-active sources I could find about 4chan:
 
-November 16 – 20
+https://www.4chan.org/tmp/newboards.html - April 2006's board additions.
 
-By this time, /b/ is renamed from Anime/Random to just Random, since /a/ was created.
+http://world2ch.org/wiki/doku.php?id=start – The world2ch Historical Society – A set of articles written by 0037, a user of world2ch and later 4chan. It contains information on its precursors: 2chan/2channel (The second original textboard, first being Ayashii Warudo, and its emergency imageboard 2chan), world2ch (first American textboard), internet summaries, 4-ch, SA and 4chan/world4ch itself. WARNING: Very subjective.)
 
-November 22
+http://world2ch.org/dramabomb.html - Archived thread from October, 2 on world2ch. It was 4chan's second day of life and the first Western Chan &quot;war&quot;.
 
-/n/ - TRAINZ is moved to 1chan, hosted by a friend of moot and mod
+[https://web.archive.org/web/20120502135140/http://www.chemistrydaily.com/chemistry/Imageboard Chemistry Daily - Imageboard] – An archive of 4chan's old wikipedia page. Comes along with [http://www.chemistrydaily.com/chemistry/Talk:4chan the talk pages] and [http://www.chemistrydaily.com/chemistry/Talk:4chan/delete the deletion request].
 
-December 16
+http://web.archive.org/web/20031202172011/world2ch.net/world2ch.html - Wayback Machine's archived site of world2ch.
 
-/t/ - Torrents
+http://web.archive.org/web/20031008225412/http://img.4chan.net/b/imgboard.htm - Wayback Machine's archived site of 4chan during 2003.
 
-December 29
+http://wakaba.c3.cx/s/web/wakaba_kareha.html - The source codes for Kareha and Wakaba, including extra info on Futaba and Futallaby.
 
-/l/ - Lolikon is taken down due to CP
+http://www.1chan.net/ and http://www.1chan.net/futallaby/ - thatdog's 1chan net, that hosts his old code Futallaby.
 
-'''2004'''
+http://www.statemaster.com/encyclopedia/5chan - Generic info on imageboards and small tidbits about the old chans of 2004. (Dead? What was in it?)
 
-January 8
+[http://shii.bibanon.org/ http://shii.org/] - There's a surprising amount on information on the old internet days here – Archived by Bibliotheca Anonoma.
 
-/l/ - Lolikon returns
+http://shii.bibanon.org/shii.org/knows/4chan - Shii's article about 4chan (WARNING: Very subjective.).
 
-/r/ - Requests formed because of a problem with /t/
+http://ayashiiworldhistory.blogspot.com.ar/2012/10/test.html - A fantastic site that contains lots of information on the precursors of 4chan, and an entire timeline of Ayashii world hubs.
 
-January 25
+http://wikiworld.com/wiki/index.php?title=4chan&oldid=5249 – An old article about 4chan, extremely detailed about its old 2004-2006 culture. [https://github.com/bibanon/bibanon/wiki/WikiWorld-4chan-Article Archived by the Bibliotheca Anonoma.]
 
-/t/ removed
+http://shii.bibanon.org/www.jonnydigital.com/4chan-history - Another wiki timeline. jDigital was a staff member for a while, not a lot of information.
 
-February 14
+http://s3.invisionfree.com/Project_4chan/ar/t7.htm - Board addition/removal history.
 
-4chan.net is suspended; 4chan.org is &quot;temporary&quot; home
+http://www.music.us/education/4/4chan.htm - Not a source I used in this .doc, though related. It essentially explains all the memes that were present during 2003 and 2004, both from 4chan and those imported from its parent sites. Further research shows that it was an early (Probably the earliest) article on wikipedia about 4chan. (lol dead – Wayback Machine archive: http://web.archive.org/web/20130727073226/http://www.music.us/education/4/4chan.htm)
 
-February 19
+http://macrochan.org/tagTree.php - An astonishing amount of old memes separated by tags, some of which are pretty much forgotten. We could actually bring some of these back and start a retro trend in 4chan.
 
-/t/ - Torrents returns,
+http://images.mackanzoor.com/CHAN/1.html - A smaller Macrochan
 
-/f/ - Flash, hosted by cgi.4chan.org hosts /f/
+http://shimmie.4chanhouse.org/index.php?q=/post/list - Same as above, but dedicated to board-tans
 
-February 21
+http://swfchan.com/ - 4chan .sfw's archive. Closely related to the board /f/. You can find some classics here.
 
-/bbs/ - 4chan Discussion
+http://www.reddit.com/r/KotakuInAction/comments/2gvtrp/ - Info on moot's gf
 
-/amh/ - Anime-Manga-Hentai – Both world4ch discussion boards
+= Overchans: =
 
-March 1
+These are a list of all the original *chan archives – Mind you, no the actual archive sites that list every single thread posted on a board, but sites that used to list every *chan on the net, originally known as overchans.
 
-/q/ - Questions
+http://www.1chan.net/overchan/ - The original overchan. Most sites there are dead or in the process of dying, though some names do carry some nostalgia value. It was originally maintained by thatdog.
 
-March 28
+http://shii.org/2ch/ - Overchan 2.0 – Maintained by Shii. It died recently.
 
-4chan.org is made permanent
+http://allchans.org/ - Overchan 3.0 – The most complete overchan (of the two left standing) They also include a separate menu for furry-themed boards (lol, fursecution) and textboards.
 
-/g/ - Guro removed
+http://1ch.us/ - The other Overchan 3.0 – Dedicated to compiling almost all *chans on the net. It's maintained by Izzy.
 
-By this time /p/ - Photo already exists
+[http://dramatica.org.ua/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%96%D0%BC%D1%96%D0%B4%D0%B6%D0%B1%D0%BE%D1%80%D0%B4%D1%96%D0%B2 http://dramatica.org.ua/Список_іміджбордів] - An Ukrainian overchan, probably the most complete ever.
 
-March 30
+http://meltingwax.net/text-overchan/ - Textboard overchan
 
-/dis/ - Discussion – Replacing /bbs/
+http://4chanarchive.org/ - Original 4chan archive: If you are interested in a blast from the past, come here for threads as early as 2006. It was discontinued some months ago.
 
-/sug/ - Suggestions
+http://chanarchive.org/ - Current version of 4chan archive. Mantained by ED, now dead.
 
-August 16
+= Other links: =
 
-By this point, /cm/ - Cute/Male, /m/ - Mecha and /n/ - Trains already existed.
+http://pastebin.com/cDKwfJJV - Pastebin with all the login pages of 4chan
 
-The discussion boards /anime/, /ascii/ and /game/ already existed.
+http://www.4chan.org/comics - This one is quite obvious, but doesn't appear on the front page. Check if you want some nostalgia.
 
-September 8
+http://www.4chan.org/flash - The same as above, but for .sfw. moot tries to keep it alive from time to time.
 
-/k/ - Weapons
+[http://www.4chanlink.org/ http://www.4chanlink.org] – Image resurrection site – Any image on 4chan can be recovered after 14 days of it's deletion.
 
-/o/ - Auto
+http://halcy.de/kopipe/index.html.down - One of the biggest copypasta archives on the Internet, probably only dwarfed by Encyclopedia Dramatica's
 
-/sm/ - Shota/Male
+http://4index.gropes.us/ - 4chan Catalog – And index showing all threads currently on the database of 4chan. Useful alternate way of browsing.
 
-&quot;/b/ is severely lacking in quality...contribute better&quot;
+http://catalog.neet.tv/ - The same catalog, but SFW only.
 
-October 9
-
-/ip/ - Oekaki Proffesional
-
-/ib/ - Oekaki Random
-
-/i/ is removed after being split
-
-/v/ - Video Games
-
-/n/ - Trains is deleted
-
-/z/ created – At its beginnings it was embedded with the song [https://www.youtube.com/watch?v=DxYaw0lnEEw Gnarkill - Sneakin' Into Your House]
-
-/tech/ - Technology – Textboard.
-
-October 31
-
-/l/ - Lolikon and /sm/ - Shota/Male are deleted due to threats of legal action.
-
-November 5
-
-moot registers not4chan.org and moves /l/ and /sm/ there instead. Both boards continue to be linked.
-
-November 15
-
-/g/ - Guro is deleted
-
-November 1
-
-/z/ was deleted
-
-'''2005'''
-
-January 19
-
-/e/ - Ecchi
-
-/g/ - Technology
-
-/n/ - Nature &amp; Wildlife
-
-/3/ - 3DCG
-
-January 27
-
-/ic/ - Artwork/Critique
-
-/p/ - Photography
-
-/x/ - General Photo
-
-Although there was already a /p/ board for photography before, it is the replacement, with new features (such as EXIF data).
-
-February 26
-
-/gif/ - Animated GIF
-
-/hr/ - High Resolution
-
-/wg/ - Wallpapers/General
-
-/x/ - General Photo is removed
-
-By March 30, /r/ - Requests already existed.
-
-'''2006'''
-
-February 6
-
-/5/ is deleted
-
-April 6
-
-/co/ - Comics &amp; Cartoons
-
-/po/ - Papercraft &amp; Origami
-
-/sp/ - Sports
-
-April 7
-
-/cgl/ - Cosplay &amp; EGL
-
-/ck/ - Food &amp; Cooking
-
-/mu/ - Music
-
-/n/ - News
-
-/tv/ - Television
-
-(I am assuming /m/, /an/, and /cm/ are up at this time also)
-
-/ss/ - Straight/Shota – Added to not4chan, hosted by Saber
-
-/yg/ - Yogurt
-
-August 4
-
-/con/ - Conventions, so people could discuss the ongoing Otakon 2006. It was deleted soon after it ended.
-
-October 1
-
-4chan faggot hat day (3 years, baby!)
-
-'''2007'''
-
-January 9
-
-moot allows all of the trial boards created on April 6, 2006 to become full boards, except for /sp/ (Sports), which is deleted.
-
-February 15
-
-/tg/ (Traditional Games)
-
-/x/ (Paranormal), created due to the rise of creepypasta culture on /b/
-
-September
-
-/rs/ - Rapidshares
-
-October 1
-
-4chan faggot hat day again. Fun times. (FOUR CHAN FOUR YEARS)
-
-'''2008'''
-
-February 19
-
-/fa/ - Fashion
-
-/fit/ - Health &amp; Fitness
-
-/hc/ - Hardcore
-
-/n/ - becomes Transportation
-
-/sp/ - Sports
-
-/toy/ - Toys
-
-/trv/ - Travel
-
-/jp/ - Japan/General
-
-/r9k/ - ROBOT9000
-
-By July 6, /ib/ and /ip/ were merged back into /i/ - Oekaki
-
-'''2010'''
-
-January 25
-
-/adv/ - Advice
-
-/lit/ - Literature
-
-/new/ - News is also brought back
-
-/int/ - International
-
-/sci/ - Science &amp; Math
-
-/3/ - 3DCG is brought back
-
-'''2011'''
-
-January 17
-
-Moot deletes /r9k/ and /new/
-
-November 9
-
-/new/ is revived by accident
-
-November 10
-
-/r9k/ is brought back as ROBOT9001
-
-/pol/ - Politically Incorrect, meant as a quarantine board for /new/ stormfags (Replacing /new/)
-
-/hc/ - Hardcore Is also brought back
-
-/diy/ - Do It Yourself.
-
-'''2012'''
-
-February 4
-
-/vg/ - Videogame Generals
-
-February
-
-Somewhere around this month moot add /hm/ - Handsome Men
-
-February 17
-
-/mlp/ - My Little Pony is created, to contain the fandom
-
-August 8
-
-/q/ - 4chan Discussion
-
-'''2013'''
-
-March 18
-
-/asp/ - Alternative Sports
-
-/gd/ - Graphic Design
-
-/lgbt/ - Gay, Lesbian, Bisexual and Transgender
-
-/out/ - Outdoors
-
-/vr/ - Retro Games
-
-All boards added on trial.
-
-April 1
-
-/s4s/ - Shit4chanSays
-
-August 11
-
-Following boards are renamed:
-
-/fit/ - Fitness
-
-/soc/ - Cam &amp; Meetups
-
-/q/ - 4chan Feedbacks
-
-September 9 - /s4s/ is renamed to [s4s]
-
-September 18
-
-/q/ is removed
-
-/sg/ - Suggestion Box is announced, but yet to be opened.
-
-September 29
-
-/con/ returns for the AWA panel
-
-October 8
-
-/con/ is removed
-
-'''2014'''
-
-February 13
-
-/biz/ - Business and Economy
-
-April 10
-
-/rs/ removed
-
-world4ch//dis/ put on lock down as read only
-
-Somewhere around this date, /fk/ and /z/'s macro were removed.
-
-April 18
-
-/htmlnew/ (Tittle: Test – Testing) is added for mods and admins to test new /html/ code
-
-April 19
-
-/htmlnew/ is removed
-
-= 2015 =
-
-January 23
-
-/qa/ - Questions &amp; Answes is added for moot's final Q/A
-
-January 25
-
-/qa/ is archived.
-
-'''Boards without dates:'''
-
-/hm/ - Handsome Men, /fk/ - For Kidz, /rs/ - Rapidshares, /m/ - Mecha, /an/ - Animals and Nature, /cm/ - Cute/male and /tl/ - Torrents/loli (Possibly on not4chan), /u/ - yuri, /p/ - Photo, /3dcg/
-
-Notes:
-
-The following boards shared letters:
-
-/g/ - Guro, Technology
-
-/n/ - TRAINZ, Trains, Nature &amp; Wildlife, News, Transportation
-
-/p/ - Photo, Photography
-
-/x/ - General Photo, Paranormal
-
-/q/ - Questions, 4chan Discussion
-
-Secret and legendary boards:
-
-/z/ - ¿¿?? – A random board which whose rules where the ZOMG NONE!!!one rule that now resides on /b/'s rules. Users would select their mods via popular vote like the idiot kings of SA's FYAD. The first board mod was Soviet_Russia, known for being a massive tripfag (according to some, he was a mod prior /z/, but that seems unlikely). He ran the board to the ground and was eventually banned. The board was deleted and replaced with the infamous beecock macro &quot;oh noes the board is gone&quot;. At one time, he embedded 56000 images on the board, and the tag /z/ - 56k would remain on the title for months. When the board was deleted, it was replaced with the image of a penis covered in bees with the text &quot;oh noes the board is gone!!1&quot;. That macro would remain on 4chan until April 2014.
-
-/5/ - 5 – Board created for the mod and WTSnacks' friend 5. Only posts about 5 or about five objects where allowed.
-
-/fk/ - For Kidz – Joke board about making a 4chan for kids. Deleted on 2014.
-
-/n/ - TRAINZ – Early test board for trains, later moved to 1chan
-
-/yg/ - Yogurt and something about danimals.
-
-/j/ - Janitors. Later Janitor &amp; Moderator Discussion. Secret HQ where all the world domination plans are schemed.
+http://dejavu.org/forsta.htm - Old page about internet history from 1992 to 1999.
